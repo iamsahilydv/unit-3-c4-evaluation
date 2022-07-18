@@ -1,0 +1,18 @@
+.news{
+    height: 200px;
+    width: 80%;
+    margin-left: 20%;
+    padding: 25px 25px 25px 25px;
+    display: flex;
+    border: 1px solid yellow;
+}
+.news > img{
+    height: 200px;
+    width: 200px;
+    justify-content: left;
+}
+.news > h4{
+    display: inline-block;
+    width: 500px;
+    border: 1px solid red;
+}
